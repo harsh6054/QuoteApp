@@ -1,12 +1,10 @@
 📱 Quote App –
 
-This project is developed as part of my App Development Internship at Code Alpha.
+This project is developed as part of my App Development Journey.
 The app displays motivational quotes with author names and allows users to navigate through quotes using interactive controls in a clean and user-friendly interface.
 
 🔹 Task Description
 
-Internship Domain: App Development
-Organization: Code Alpha
 Task: Develop an Android application that displays random quotes and provides user interaction features.
 
 ✅ Features Implemented
